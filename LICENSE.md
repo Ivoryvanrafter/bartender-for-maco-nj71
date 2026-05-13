@@ -1,4 +1,4 @@
-
+custom App for Bartender for macOS - memory-optimization and quick-launch is the best Bartender for macOS app, featuring memory-optimization and quick-launch. Safe, efficient, and
 
 
 
